@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /*
 *Authur: Meine Mac-Obegba
 *Program: WinMingle Community C Training
