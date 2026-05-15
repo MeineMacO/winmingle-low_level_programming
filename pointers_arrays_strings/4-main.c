@@ -3,7 +3,7 @@
 /*
  * Author: Meine Mac-Obegba
  * Department: WinMingle Community Software Engineering Program
- * Project Directory: 0x04. C -pointers_arrays_strings
+ * Project Directory: Pointers_arrays_strings
  * Repository: winmingle-low_level_programming
  * Compilation: gcc -Wall -Werror -Wextra -pedantic -std=gnu89
  * Description:  main file - calls the function that prints a string in reverse.
@@ -15,7 +15,7 @@
 int main(void)
 {
     char *s = "I do not fear computers. I fear the lack of them - Isaac Asimov";
-    _puts(s);
+    print_rev(s);
     return (0);
 }
 
