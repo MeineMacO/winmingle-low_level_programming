@@ -3,7 +3,7 @@
 /*
  * Author: Meine Mac-Obegba
  * Department: WinMingle Community Software Engineering Program
- * Project Directory: 0x04. C -pointers_arrays_strings
+ * Project Directory: Pointers_arrays_strings
  * Repository: winmingle-low_level_programming
  * Compilation: gcc -Wall -Werror -Wextra -pedantic -std=gnu89
  * Description:  main file - calls the function that reverses a string.
@@ -14,8 +14,12 @@
 
 int main(void)
 {
-    char *s = "My School";
+    char s[] = "My School";
+
+	_puts(s);
+    rev_string(s);
     _puts(s);
+
     return (0);
 }
 
