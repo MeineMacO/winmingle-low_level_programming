@@ -3,7 +3,7 @@
 /*
  * Author:  Meine Mac-Obegba
  * Department:  WinMingle Community Software Engineering Program
- * Project Directory:  0x04. C - More functions, more nested loops
+ * Project Directory:  Pointers_arrays_strings
  * Repository:  winmingle-low_level_programming
  * Compilation:  gcc -Wall -Werror -Wextra -pedantic -std=gnu89
  * Description: 1-swap.c - A function that swaps the values of two integers.
