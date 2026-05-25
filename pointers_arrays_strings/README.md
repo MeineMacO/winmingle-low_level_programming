@@ -37,7 +37,7 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89
 | `6-puts2.c` | `puts2` | Prints every other character of a string |
 | `7-puts_half.c` | `puts_half` | Prints the second half of a string |
 | `8-print_array.c` | `print_array` | Prints n elements of an integer array |
-| `9-strcpy.c` | `_strcpy` | Copies a string from src to dest |
+| `9-stripy.c` | `_strcpy` | Copies a string from src to dest |
 | `10-atoi.c` | `_atoi` | Converts a string to an integer |
 | `101-keygen.c` | `main` | Generates a random valid password for crackme |
 | `crackme.c` | `main` | Sample crackme style C program used with the 101-kengen.c |
