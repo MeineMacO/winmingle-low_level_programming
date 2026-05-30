@@ -90,6 +90,3 @@ void print_number(int n);
 - `cap_string` recognises these separators: space, tab, newline, comma,
   semicolon, period, exclamation mark, question mark, double quote, single quote
 
-
-
--11U:---  F1  README2.md     43%   L61
